@@ -1,13 +1,13 @@
-"Numero","Sexo","Altura","Peso","Talla de zapato"
-1,"hombre",166,65,40
-2,"mujer",190,90,47
-3,"mujer",175,64,39
-4,"mujer",177,70,40
-5,"hombre",181,80,44
-6,"hombre",177,70,43
-7,"mujer",160,60,38
-8,"mujer",154,54,37
-9,"mujer",175,64,39
-10,"mujer",159,53,35
-11,"hombre",185,83,46
-12,"hombre",190,87,47
+"Sexo","Altura","Peso","Talla de zapato"
+"hombre",166,65,40
+"mujer",190,90,47
+"mujer",175,64,39
+"mujer",177,70,40
+"hombre",181,80,44
+"hombre",177,70,43
+"mujer",160,60,38
+"mujer",154,54,37
+"mujer",175,64,39
+"mujer",159,53,35
+"hombre",185,83,46
+"hombre",190,87,47
